@@ -5,8 +5,8 @@
               # print available or unavailable, then
               # print the order confirmation of color and size
 
-hint: set a variable "available = False" before nested if statements and
-change to True if color and size are avaliable
+#-hint: set a variable "available = False" before nested if statements and
+#-change to True if color and size are avaliable
 
 
 available = True
